@@ -28,6 +28,18 @@ Some of the topics that I learned and practiced under this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/7.png>)
 
+#### Chapter 2: Regression
+Some of the topics that I covered and learned in this section are:  
+1.Building a linear regression model  
+2.Visualizing a linear regression model  
+3.Fit and predict for regression  
+4.Regression performance  
+5.Cross-validation  
+6.Analyzing cross-validation metrics  
+7.Regularized regression like Ridge and Lasso
+
+#### Screenshots from my learning:  
+
 ![alt text](<Images/1. Supervised learning with scikit-learn/8.png>)
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/9.png>)
