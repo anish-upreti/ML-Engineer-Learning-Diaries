@@ -7,7 +7,7 @@
 ## Supervised Learning with Scikit-learn
 
 ### Chapter 1: Classification
-Some of the topics that I learned and practiced under this section are:
+Some of the topics that I learned and practiced under this section are:  
 1.Binary Classification  
 2.The supervised learning workflow  
 3.Measuring model performance  
@@ -15,4 +15,8 @@ Some of the topics that I learned and practiced under this section are:
 5.Overfitting and underfitting  
 6.Visualizing  
 
-Screenshots from my learning:  
+#### Screenshots from my learning:  
+![image](https://github.com/user-attachments/assets/252a9c9d-ee26-45ad-83d7-e1d41024b117)
+
+
+
