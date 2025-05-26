@@ -28,7 +28,7 @@ Some of the topics that I learned and practiced under this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/7.png>)
 
-#### Chapter 2: Regression
+### Chapter 2: Regression
 Some of the topics that I covered and learned in this section are:  
 1.Building a linear regression model  
 2.Visualizing a linear regression model  
@@ -53,6 +53,18 @@ Some of the topics that I covered and learned in this section are:
 ![alt text](<Images/1. Supervised learning with scikit-learn/13.png>)
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/14.png>)
+
+### Chapter 3: Fine Tuning your model
+Some topics that I learned during this chapter are:  
+-Deciding on a primary metric
+-Logistic regression and the ROC curve
+-Building a logistic regression model
+-ROC AUC
+-Hyperparameter tuning
+-Hyperparameter tuning with GridSearchCV
+-Hyperparameter tuning with RandomizedSearchCV
+
+#### Screenshots:  
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/15.png>)
 
