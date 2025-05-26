@@ -26,8 +26,6 @@ Some of the topics that I learned and practiced under this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/4.png>)
 
-![alt text](<Images/1. Supervised learning with scikit-learn/6b.png>)
-
 ![alt text](<Images/1. Supervised learning with scikit-learn/7.png>)
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/8.png>)
