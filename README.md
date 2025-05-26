@@ -30,13 +30,13 @@ Some of the topics that I learned and practiced under this section are:
 
 ### Chapter 2: Regression
 Some of the topics that I covered and learned in this section are:  
-1.Building a linear regression model  
-2.Visualizing a linear regression model  
-3.Fit and predict for regression  
-4.Regression performance  
-5.Cross-validation  
-6.Analyzing cross-validation metrics  
-7.Regularized regression like Ridge and Lasso
+1.Building a linear regression model   
+2.Visualizing a linear regression model   
+3.Fit and predict for regression   
+4.Regression performance   
+5.Cross-validation   
+6.Analyzing cross-validation metrics   
+7.Regularized regression like Ridge and Lasso  
 
 #### Screenshots from my learning:  
 
@@ -54,15 +54,15 @@ Some of the topics that I covered and learned in this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/14.png>)
 
-### Chapter 3: Fine Tuning your model
-Some topics that I learned during this chapter are:  
--Deciding on a primary metric
--Logistic regression and the ROC curve
--Building a logistic regression model
--ROC AUC
--Hyperparameter tuning
--Hyperparameter tuning with GridSearchCV
--Hyperparameter tuning with RandomizedSearchCV
+### Chapter 3: Fine Tuning your model  
+Some topics that I learned during this chapter are:   
+-Deciding on a primary metric  
+-Logistic regression and the ROC curve  
+-Building a logistic regression model  
+-ROC AUC  
+-Hyperparameter tuning  
+-Hyperparameter tuning with GridSearchCV  
+-Hyperparameter tuning with RandomizedSearchCV  
 
 #### Screenshots:  
 
@@ -77,6 +77,18 @@ Some topics that I learned during this chapter are:
 ![alt text](<Images/1. Supervised learning with scikit-learn/19.png>)
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/20.png>)
+
+### Chapter 4: Preprocessing and pipelines  
+Topics that i covered during this chapter:  
+-Creating dummy variables   
+-Regression with categorical features    
+-Handling missing data    
+-Dropping missing data  
+-Pipeline  
+-Centering and scaling  
+-Evaluating multiple models  
+
+#### Screenshots:  
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/21.png>)
 
