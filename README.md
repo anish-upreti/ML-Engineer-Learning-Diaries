@@ -78,3 +78,4 @@ Some of the topics that I learned and practiced under this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/31.png>)
 
+![alt text](image.png)
