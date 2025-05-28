@@ -78,3 +78,72 @@ Some of the topics that I learned and practiced under this section are:
 
 ![alt text](<Images/1. Supervised learning with scikit-learn/supervised_learning_certificate.png>)
 
+
+## Unsupervised Learning in Python
+### Chapter 1: Clustering for dataset exploration
+
+The link to my notes for this course is as given: 
+[text](<Notes/Unsupervised learning in python.ipynb>)
+
+![alt text](<Images/2. Unsupervised learning in python/1.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/2.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/3.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/4.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/5.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/6.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/7.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/8.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/9.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/10.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/11.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/12.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/13.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/14.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/15.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/16.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/17.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/18.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/19.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/20.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/21.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/22.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/23.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/24.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/25.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/26.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/27.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/28.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/29.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/30.png>)
+
+![alt text](<Images/2. Unsupervised learning in python/unsupervised learning in python certificate.png>)
+
