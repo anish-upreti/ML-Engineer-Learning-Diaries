@@ -119,7 +119,7 @@ Topics that i covered during this chapter:
 ### Chapter 1: Clustering for dataset exploration
 
 The link to my notes for this course is as given: 
-[text](<Notes/Unsupervised learning in python.ipynb>)
+[text](<Notes/Unsupervised learning in python notes.ipynb>)
 
 ![alt text](<Images/2. Unsupervised learning in python/1.png>)
 
@@ -137,6 +137,8 @@ The link to my notes for this course is as given:
 
 ![alt text](<Images/2. Unsupervised learning in python/8.png>)
 
+### Chapter 2: Visualization with Hierarchical Clustering and t-SNE
+
 ![alt text](<Images/2. Unsupervised learning in python/9.png>)
 
 ![alt text](<Images/2. Unsupervised learning in python/10.png>)
@@ -148,6 +150,8 @@ The link to my notes for this course is as given:
 ![alt text](<Images/2. Unsupervised learning in python/13.png>)
 
 ![alt text](<Images/2. Unsupervised learning in python/14.png>)
+
+### Chapter 3: Decorrelating Your Data and Dimension Reduction
 
 ![alt text](<Images/2. Unsupervised learning in python/15.png>)
 
@@ -164,6 +168,8 @@ The link to my notes for this course is as given:
 ![alt text](<Images/2. Unsupervised learning in python/21.png>)
 
 ![alt text](<Images/2. Unsupervised learning in python/22.png>)
+
+### Chapter 4: Discovering Interpretable Features
 
 ![alt text](<Images/2. Unsupervised learning in python/23.png>)
 
