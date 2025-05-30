@@ -194,3 +194,6 @@ In this course, I learned about MLOps, different phases in MLOps, ML lifecycle, 
 
 All of my notes for MLOps is in this file:  
 ### [MLOps notes](<Notes/MLOps notes.ipynb>)
+
+![alt text](<Images/3. MLOps Concepts/MLOps certificate.png>)
+
