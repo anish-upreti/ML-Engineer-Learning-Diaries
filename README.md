@@ -118,8 +118,8 @@ Topics that i covered during this chapter:
 ## Unsupervised Learning in Python
 ### Chapter 1: Clustering for dataset exploration
 
-The link to my notes for this course is as given: 
-[text](<Notes/Unsupervised learning in python notes.ipynb>)
+The link to my notes for this course is as given:   
+### [Unsupervised learning notes](<Notes/Unsupervised learning in python notes.ipynb>)
 
 ![alt text](<Images/2. Unsupervised learning in python/1.png>)
 
@@ -187,5 +187,10 @@ The link to my notes for this course is as given:
 
 ![alt text](<Images/2. Unsupervised learning in python/30.png>)
 
-![alt text](<Images/2. Unsupervised learning in python/unsupervised learning in python certificate.png>)
+![alt text](<Images/2. Unsupervised learning in python/unsupervised learning in python certificate.png>)      
 
+## MLOps  
+In this course, I learned about MLOps, different phases in MLOps, ML lifecycle, tasks per phase, different MLOps tools, components and many more.  
+
+All of my notes for MLOps is in this file:  
+### [MLOps notes](<Notes/MLOps notes.ipynb>)
