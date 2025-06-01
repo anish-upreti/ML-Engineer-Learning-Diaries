@@ -197,3 +197,11 @@ All of my notes for MLOps is in this file:
 
 ![alt text](<Images/3. MLOps Concepts/MLOps certificate.png>)
 
+## MLOps Deployment and Life Cycling
+In this course, I explored the modern MLOps framework, including the lifecycle and deployment of machine learning models. In this course, I learned about ML concepts that minimizes technical debt, discovered the tools we will need to deploy and monitor our models, and examined the different types of environments and analytics that we will encounter. I discovered key functional components for model development, deployment, monitoring, and maintenance. I learned how to develop models for deployment and how to write effective ML code, leverage tools, and train ML pipelines. I explored different strategies for replacing existing production models and examine APIs. I discovered the crucial performance metrics behind monitoring and maintaining our ML models. I learned about drift monitoring in production, as well as model feedback, updates, and governance.
+
+All the notes for this section is in the link below:  
+[MLOps Deployment and Life cycling](<Notes/MLOps Deployment and Life cycling notes.ipynb>)
+
+![alt text](<Images/MLOps Deployment and Life Cycling/MLOps Deployment and Life cycling  certificate.png>)
+
