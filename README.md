@@ -205,3 +205,57 @@ All the notes for this section is in the link below:
 
 ![alt text](<Images/MLOps Deployment and Life Cycling/MLOps Deployment and Life cycling  certificate.png>)
 
+## Introduction to MLflow
+
+The link for all the notes from this learning segment:  
+[Introduction to MLflow](<Notes/Introduction to MLflow.ipynb>)  
+
+### Chapter 1: MLflow tracking
+![alt text](<Images/Introduction to MLflow/1.png>)
+
+![alt text](<Images/Introduction to MLflow/2.png>)
+
+![alt text](<Images/Introduction to MLflow/3.png>)
+
+### Chapter 2: MLflow models
+![alt text](<Images/Introduction to MLflow/4.png>)
+
+![alt text](<Images/Introduction to MLflow/5.png>)
+
+![alt text](<Images/Introduction to MLflow/6.png>)
+
+![alt text](<Images/Introduction to MLflow/7.png>)
+
+![alt text](<Images/Introduction to MLflow/8.png>)
+
+![alt text](<Images/Introduction to MLflow/9.png>)
+
+![alt text](<Images/Introduction to MLflow/10.png>)
+
+### Chapter 3: MLflow model registry
+![alt text](<Images/Introduction to MLflow/11.png>)
+
+![alt text](<Images/Introduction to MLflow/12.png>)
+
+![alt text](<Images/Introduction to MLflow/13.png>)
+
+### Chapter 4: MLflow Projects
+
+![alt text](<Images/Introduction to MLflow/14.png>)
+
+![alt text](<Images/Introduction to MLflow/15.png>)
+
+![alt text](<Images/Introduction to MLflow/16.png>)
+
+![alt text](<Images/Introduction to MLflow/17.png>)
+
+![alt text](<Images/Introduction to MLflow/18.png>)
+
+![alt text](<Images/Introduction to MLflow/19.png>)
+
+![alt text](<Images/Introduction to MLflow/20.png>)
+
+![alt text](<Images/Introduction to MLflow/21.png>)
+
+![alt text](<Images/Introduction to MLflow/Introduction to MLflow.png>)
+
