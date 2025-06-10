@@ -259,3 +259,20 @@ The link for all the notes from this learning segment:
 
 ![alt text](<Images/Introduction to MLflow/Introduction to MLflow.png>)
 
+## ETL and ELT in python
+The notes for this segment is given in link below:  
+
+[ETL and ELT in python](<Notes/ETL and ELT in python notes.ipynb>)
+
+From this course, I learned many things like: 
+
+-Designing and building data pipelines
+First, I was introduced to both ETL and ELT pipelines. I explored characteristics of the best data pipelines to emulate, and how to properly design a data pipeline. After outlining the foundations of ETL pipelines, I jumped right into developing extract, transform, and load logic to pipeline data from a source system to a storage medium. I incorporated techniques including exception handling and logging to provide visibility into a data pipeline.
+
+-Advanced ETL techniques
+I built on foundational ETL logic to handle different data types and formats, such as flattened and nested JSON data. I also practiced advanced transformation logic with pandas, and techniques to persist data to dynamic storage media.
+
+-Deploying and maintaining data pipelines
+I created frameworks to validate and test data pipelines before shipping them into production. After testing  pipeline, I explored techniques to run data pipeline end-to-end, all while allowing for visibility into pipeline performance.
+
+![alt text](<Images/ETL and ELT in python/ETL and ELT in python.png>)
